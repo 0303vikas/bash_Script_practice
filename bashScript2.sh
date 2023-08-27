@@ -16,6 +16,6 @@ else
     cd $1
     for arg in "${@:2}"; do
         count=$(grep -r -c "<$arg" | awk -F ':' '{sum+=$2} END {print sum}')
-        echo "$arg: $count" >>../result2.txt
+        echo "$arg - $count" >>../result2.txt
     done
 fi

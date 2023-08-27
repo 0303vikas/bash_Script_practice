@@ -1,0 +1,18 @@
+Name: Finland
+Capital: ["Helsinki"]
+Languages: {"fin":"Finnish","swe":"Swedish"}
+Population: 5530719
+
+
+Name: Sweden
+Capital: ["Stockholm"]
+Languages: {"swe":"Swedish"}
+Population: 10353442
+
+
+Name: India
+Capital: ["New Delhi"]
+Languages: {"eng":"English","hin":"Hindi","tam":"Tamil"}
+Population: 1380004385
+
+
